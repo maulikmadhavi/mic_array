@@ -186,5 +186,5 @@ def test_8mic():
 
 
 if __name__ == '__main__':
-    # test_4mic()
-    test_8mic()
+    test_4mic()
+    #test_8mic()
